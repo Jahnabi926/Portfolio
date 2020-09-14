@@ -1,0 +1,25 @@
+.jumbotron{
+  background-image: url("C:/Users/HP/Desktop/Bootstrap/black.jpg");
+  background-size: "cover";
+  color: white;
+  position: relative;
+  z-index:2;
+  box-shadow: 0 8px 16px -6px black;
+}
+.card {
+  position: relative;
+  z-index:2;
+  box-shadow: 0 8px 16px -6px black;
+}
+.card-img-overlay h1{
+  text-align: center;
+}
+.table{
+  color: white;
+  position: relative;
+  z-index:2;
+  box-shadow: 0 8px 16px -6px black;
+}
+.row{
+  margin-left: 2px;
+}
